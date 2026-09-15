@@ -26,7 +26,7 @@ Também serão disponibilizados links relacionados ao filme e aos artistas.
 
 - Tela Afins https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Tela-Afins
 
-- Vídeo da navegação
+- Vídeo da navegação https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/V%C3%ADdeo-da-navega%C3%A7%C3%A3o
 
 -  Estruturas dos arquivos JSON
 
