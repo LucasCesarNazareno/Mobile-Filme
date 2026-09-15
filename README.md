@@ -25,3 +25,9 @@ Também serão disponibilizados links relacionados ao filme e aos artistas.
 - Tela Curiosidades https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Tela-Curiosidades
 
 - Tela Afins https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Tela-Afins
+
+- Vídeo da navegação
+
+-  Estruturas dos arquivos JSON
+
+-  Referências
