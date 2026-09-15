@@ -30,4 +30,4 @@ Também serão disponibilizados links relacionados ao filme e aos artistas.
 
 -  Estruturas dos arquivos JSON https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Estruturas-dos-arquivos-JSON
 
--  Referências
+-  Referências https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Refer%C3%AAncias
