@@ -1,17 +1,33 @@
-# a_historia_sem_fim
+# Prototipo-mobile
+## Nome dos integrantes
+- Guilherme dos Santos Pereira
+-  Lucas Cesar Nazareno
 
-A new Flutter project.
+  ## Tema do aplicativo 
+  - Aplicativo desenvolvido para apresentar informações sobre o filme A História Sem Fim (The NeverEnding Story), lançado em 1984.
+- O aplicativo apresenta informações sobre o filme, seu enredo, personagens, elenco, curiosidades e dados técnicos da obra.
+Também serão disponibilizados links relacionados ao filme e aos artistas.
 
-## Getting Started
+## Sumário da Wiki
 
-This project is a starting point for a Flutter application.
+- Sobre a wiki https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Projeto-sobre-o-FIlme-A-hist%C3%B3ria-sem-fim
 
-A few resources to get you started if this is your first Flutter project:
+- Dados do Filme https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Dados-do-filme
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Protótipo da tela inicial https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Prot%C3%B3tipo-Tela-Inicial
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Tela Enredo https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Tela-Enredo
+
+- Tela Elenco https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Tela-Elenco
+
+- Tela Dados Técnicos https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Tela-Dados-T%C3%A9cnicos
+
+- Tela Curiosidades https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Tela-Curiosidades
+
+- Tela Afins https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Tela-Afins
+
+- Vídeo da navegação https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/V%C3%ADdeo-da-navega%C3%A7%C3%A3o
+
+-  Estruturas dos arquivos JSON https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Estruturas-dos-arquivos-JSON
+
+-  Referências https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Refer%C3%AAncias
