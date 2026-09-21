@@ -1,0 +1,51 @@
+[
+  {
+    "nome": "Bastian Balthazar Bux",
+    "ator": "Barret Oliver",
+    "filmes": "A História sem fim, Cocoon, D.A.R.Y.L",
+    "nascimento": "24 de agosto de 1973",
+    "imagem": "img/barret.jpg"
+  },
+  {
+    "nome": "Imperatriz Criança",
+    "ator": "Tami Stronach",
+    "filmes": "A História sem fim, Man and Witch",
+    "nascimento": "31 de julho de 1972",
+    "imagem": "img/tami.jpg"
+  },
+  {
+    "nome": "Atreyu",
+    "ator": "Noah Hathaway",
+    "filmes": "A História sem fim, Troll, Sushi Girl",
+    "nascimento": "13 de novembro de 1971",
+    "imagem": "img/noah.jpg"
+  },
+  {
+    "nome": "Falkor",
+    "ator": "Alan Oppenheimer",
+    "filmes": "A História sem fim, 9 - A Salvação",
+    "nascimento": "23 de abril de 1930",
+    "imagem": "img/alan.jpg"
+  },
+  {
+    "nome": "Gmork",
+    "ator": "Alan Oppenheimer",
+    "filmes": "A História sem fim, 9 - A Salvação",
+    "nascimento": "23 de abril de 1930",
+    "imagem": "img/alan2.jpg"
+  },
+  {
+    "nome": "Rock Biter",
+    "ator": "Alan Oppenheimer",
+    "filmes": "A História sem fim, 9 - A Salvação",
+    "nascimento": "23 de abril de 1930",
+    "imagem": "img/alan3.jpg"
+  },
+  {
+    "nome": "Carl Conrad Coreander",
+    "ator": "Thomas Hill",
+    "filmes": "A História sem fim, Raposa de Fogo, Quinteto",
+    "nascimento": "02 de junho de 1927",
+    "imagem": "img/thomas.jpg"
+  }
+]

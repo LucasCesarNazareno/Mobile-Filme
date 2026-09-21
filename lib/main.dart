@@ -1,15 +1,19 @@
 import 'package:flutter/material.dart';
+import 'package:a_historia_sem_fim/elenco.dart';
+
 import 'enredo.dart';
 import 'dados.dart';
-//import 'elenco.dart';
 import 'curiosidades.dart';
 import 'afins.dart';
 
 void main() {
-  runApp(const MaterialApp(
-    title: "A Historia Sem Fim",
-    home: MainApp(),
-  ));
+  runApp(
+    const MaterialApp(
+      debugShowCheckedModeBanner: false,
+      title: "A Historia Sem Fim",
+      home: MainApp(),
+    ),
+  );
 }
 
 class MainApp extends StatefulWidget {
@@ -27,7 +31,6 @@ class _MainAppState extends State<MainApp> {
         builder: (context, constraints) {
           return Stack(
             children: [
-
               Positioned.fill(
                 child: Image.asset(
                   'img/fundoMenu.jpg',
@@ -35,7 +38,6 @@ class _MainAppState extends State<MainApp> {
                 ),
               ),
 
-              // TÍTULO
               Positioned(
                 top: constraints.maxHeight * 0.07,
                 left: 0,
@@ -49,6 +51,7 @@ class _MainAppState extends State<MainApp> {
                 ),
               ),
 
+              // ENREDO
               Positioned(
                 top: constraints.maxHeight * 0.38,
                 left: 0,
@@ -76,6 +79,7 @@ class _MainAppState extends State<MainApp> {
                 ),
               ),
 
+              // DADOS
               Positioned(
                 top: constraints.maxHeight * 0.47,
                 left: 0,
@@ -103,7 +107,7 @@ class _MainAppState extends State<MainApp> {
                 ),
               ),
 
-              /*
+              // ELENCO
               Positioned(
                 top: constraints.maxHeight * 0.56,
                 left: 0,
@@ -115,9 +119,6 @@ class _MainAppState extends State<MainApp> {
                         context,
                         MaterialPageRoute(
                           builder: (context) => const ElencoPage(),
-                          settings: const RouteSettings(
-                            arguments: 'Elenco',
-                          ),
                         ),
                       );
                     },
@@ -130,10 +131,10 @@ class _MainAppState extends State<MainApp> {
                   ),
                 ),
               ),
-              */
 
+              // CURIOSIDADES
               Positioned(
-                top: constraints.maxHeight * 0.56,
+                top: constraints.maxHeight * 0.65,
                 left: 0,
                 right: 0,
                 child: Center(
@@ -159,8 +160,9 @@ class _MainAppState extends State<MainApp> {
                 ),
               ),
 
+              // AFINS
               Positioned(
-                top: constraints.maxHeight * 0.65,
+                top: constraints.maxHeight * 0.74,
                 left: 0,
                 right: 0,
                 child: Center(
