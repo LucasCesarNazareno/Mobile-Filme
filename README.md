@@ -1,4 +1,4 @@
-# Prototipo-mobile
+# Mobile-Filme
 ## Nome dos integrantes
 - Guilherme dos Santos Pereira
 -  Lucas Cesar Nazareno
