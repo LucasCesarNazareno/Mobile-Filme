@@ -29,3 +29,5 @@ Também serão disponibilizados links relacionados ao filme e aos artistas.
 - Vídeo da navegação https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/V%C3%ADdeo-da-navega%C3%A7%C3%A3o
 
 -  Referências https://github.com/LucasCesarNazareno/Prototipo-mobile/wiki/Refer%C3%AAncias
+
+-  json código https://github.com/LucasCesarNazareno/Mobile-Filme/wiki/Estrutura-JSON
